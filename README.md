@@ -26,3 +26,10 @@ cmake -G "MinGW Makefiles" ..
 
 mingw32-make
 
+聪明的不用教 蠢的教不会 没有bug 不进行更新项目
+
+参考
+
+https://github.com/SsageParuders/AndroidPtraceInject
+https://github.com/jmpews/Dobby
+https://github.com/luorui110120/dobbyDemo
